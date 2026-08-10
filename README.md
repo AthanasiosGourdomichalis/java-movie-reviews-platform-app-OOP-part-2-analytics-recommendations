@@ -1,0 +1,2 @@
+# java_OOP_PART_2_movie_app_platform_Collaborative_Content-Based_Filtering_Analytics_recommendations
+PART 2: A more enhanced Java movie analytics and recommendation system implementing User-Based Collaborative Filtering (MSE) and Content-Based Filtering using Java Collections and CSV data parsing. This project is an extension of the 1st part, handling exceptions appropriately and strictly. READ ASSIGNMENT.pdf AND README.pdf FOR MORE INFORMATION.
