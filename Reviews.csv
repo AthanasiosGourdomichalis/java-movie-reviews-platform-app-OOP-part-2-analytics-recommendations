@@ -1,0 +1,68 @@
+USER,User,giannis
+USER,VerifiedUser,maria,maria@gmail.com
+USER,Critic,kritikos,aueb@gmail.com,1234
+USER,User,nikos
+USER,VerifiedUser,elena,elena@gmail.com
+USER,User,john_d
+USER,VerifiedUser,maria89,maria@gmail.com
+USER,User,neo_user
+USER,User,action_fan
+USER,User,moviegeek
+USER,User,jane_s
+USER,User,singer22
+USER,User,music_lover
+USER,User,film_buff
+USER,User,dream_walker
+USER,User,space_fan
+MOVIE,Iron Man,2008,Jon Favreau,Action,Sci-Fi
+MOVIE,The Dark Knight,2008,Christopher Nolan,Action,Crime,Drama
+MOVIE,Spider-Man,2002,Sam Raimi,Action,Adventure
+MOVIE,Avengers: Endgame,2019,Anthony Russo,Action,Sci-Fi
+MOVIE,Joker,2019,Todd Phillips,Drama,Thriller
+MOVIE,Doctor Strange,2016,Scott Derrickson,Action,Fantasy
+MOVIE,Man of Steel,2013,Zack Snyder,Action,Adventure,Sci-Fi
+MOVIE,Captain America: Civil War,2016,Anthony Russo,Action,Sci-Fi
+MOVIE,Batman Begins,2005,Christopher Nolan,Action,Adventure
+MOVIE,Black Panther,2018,Ryan Coogler,Action,Adventure,Sci-Fi
+MOVIE,The Matrix,1999,Lana Wachowski,Action,Sci-Fi
+MOVIE,Mad Max: Fury Road,2015,George Miller,Action,Adventure
+MOVIE,La La Land,2016,Damien Chazelle,Musical,Romance
+MOVIE,The Greatest Showman,2017,Michael Gracey,Musical,Biography
+MOVIE,The Godfather,1972,Francis Ford Coppola,Crime,Drama
+MOVIE,Pulp Fiction,1994,Quentin Tarantino,Crime,Drama
+MOVIE,Inception,2010,Christopher Nolan,Sci-Fi,Action
+MOVIE,Interstellar,2014,Christopher Nolan,Sci-Fi,Adventure
+REVIEW,BasicReview,giannis,Iron Man,8,Poli kalo!
+REVIEW,BasicReview,maria,Iron Man,9,wow!
+REVIEW,CriticReview,kritikos,The Dark Knight,10,Apla teleio!
+REVIEW,BasicReview,nikos,The Dark Knight,7,Kalo
+REVIEW,BasicReview,elena,Spider-Man,9,Epeisodiko
+REVIEW,CriticReview,kritikos,Avengers: Endgame,8,Wraia tainia
+REVIEW,BasicReview,giannis,Joker,9,
+REVIEW,BasicReview,maria,Doctor Strange,10,
+REVIEW,BasicReview,nikos,Doctor Strange,9,
+REVIEW,CriticReview,kritikos,Man of Steel,10,I kalyteri tainia
+REVIEW,BasicReview,john_d,The Matrix,9,Mind-blowing sci-fi classic.
+REVIEW,BasicReview,maria89,The Matrix,8,Excellent effects and story.
+REVIEW,BasicReview,neo_user,The Matrix,10,My favorite movie of all time.
+REVIEW,BasicReview,action_fan,Mad Max: Fury Road,10,Non-stop adrenaline.
+REVIEW,BasicReview,moviegeek,Mad Max: Fury Road,9,Visually stunning.
+REVIEW,BasicReview,jane_s,Mad Max: Fury Road,8,Great action scenes.
+REVIEW,BasicReview,john_d,La La Land,7,Nice music, a bit overrated.
+REVIEW,BasicReview,maria89,La La Land,9,Beautiful performances!
+REVIEW,BasicReview,singer22,La La Land,10,Loved every scene.
+REVIEW,BasicReview,singer22,The Greatest Showman,9,Catchy songs.
+REVIEW,BasicReview,jane_s,The Greatest Showman,8,Very entertaining.
+REVIEW,BasicReview,music_lover,The Greatest Showman,10,Watched it multiple times!
+REVIEW,BasicReview,film_buff,The Godfather,10,A masterpiece. No flaws.
+REVIEW,BasicReview,maria89,The Godfather,9,Classic for a reason.
+REVIEW,BasicReview,neo_user,The Godfather,8,Slow but very good.
+REVIEW,BasicReview,film_buff,Pulp Fiction,9,Tarantino magic.
+REVIEW,BasicReview,jane_s,Pulp Fiction,8,Great dialogues.
+REVIEW,BasicReview,moviegeek,Pulp Fiction,9,Iconic scenes.
+REVIEW,BasicReview,john_d,Inception,9,Nolan at his best.
+REVIEW,BasicReview,dream_walker,Inception,10,Brilliant concept!
+REVIEW,BasicReview,neo_user,Inception,8,Complex but worth it.
+REVIEW,BasicReview,dream_walker,Interstellar,10,Emotionally powerful.
+REVIEW,BasicReview,space_fan,Interstellar,9,Fantastic visuals.
+REVIEW,BasicReview,john_d,Interstellar,8,Long but great.
