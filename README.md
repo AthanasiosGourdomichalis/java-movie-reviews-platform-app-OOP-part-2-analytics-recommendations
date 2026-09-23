@@ -181,8 +181,7 @@ a) Press '10' from the main menu.
 -----------------------------------------------------------------------------------------------
 
 ---
-
 # 👤 Author
-## Athanasios Gourdomichalis - https://github.com/AthanasiosGourdomichalis
+## **Athanasios Gourdomichalis** - [GitHub Profile](https://github.com/AthanasiosGourdomichalis)
 
 ---
