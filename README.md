@@ -1,8 +1,37 @@
-# MOVIE PLATFORM APPLICATION - USER GUIDE
+# **Movie platform application** `[Computer Programming with Java Assignment]` `[Part 2]`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+---
+> ## `Assignment purpose`:
+> The **objective** of the second part is to **process data** from a **`file`** and **develop `mechanisms`** for **`statistical analysis`** and **`movie recommendations`**. We were called to **extend** our `object-oriented model`, utilize `Java Collections` and `grouping techniques`, and **implement basic forms of `collaborative filtering`** (if two users **share similar tastes**, movies liked by one **may also appeal to the other**) and **`content-based filtering`**(if a user likes movies with specific characteristics, **we recommend other movies with similar attributes**) to support recommendation features. **The program handles exceptions appropriately**.
+
+> **Available File: [`reviews.csv`](Reviews.csv)**
+> **Contains rows with information regarding:**
+>   * `[Movie]`: **title**, **release year**, **genre**
+>   * `[User]`: unique **identifier** or **username**
+>   * `[Review]`: **numerical rating** (e.g., `1–10`) and a **comment**
+---
+> ## `Context`:
+> Now that the **platform** possesses the **foundational infrastructure** for representing **`movies`, `users`, and `reviews`**, it **seeks to leverage realworld data** to extract **statistical insights**, understand **user preferences**, and **enhance its recommendation mechanisms**. Users continue to **rate movies using numerical scores** and **short comments**, and the company aims to **organize** and **analyze** this **information** on a **larger scale**. 
+---
+> ## `Description`:
+> **Key questions** concerning the **platform** include:
+> * Which are the **`most popular movies`** per **genre** based on **user ratings**?
+> * How can the movies with the **`highest user acceptance`** be **identified**?
+> * What are the **`preferences`** of **each individual user**?
+> * Which movies are **worth recommending** to a **user** based on their **previous ratings** or the **ratings of others with a similar profile**?
+>   
+> To support these **objectives**, we **were required** to **extend the `object-oriented` system** to:
+> * **Read data directly from `files`**,
+> * **Organize** and **group movies** and **users** based on **`ratings`**,
+> * Extract **useful `statistical analytics`**,
+> * Support **`recommendation mechanisms`** based on **user similarity (`collaborative filtering`)** and **movie content (`content-based filtering`)**. 
+---
+## 📄 Documentation
+* For a **detailed description** of the **assignment requirements**, **assignment purpose**, **context**, **description**, **required steps [`File Parsing and Object Instantiation`, `Data Organization and Processing`, `Statistical Analytics & Queries`, `Implementation of the Recommender System`, etc.]**, **assignment instructions**, etc. please refer to the **assignment document**: [assignment.pdf](./assignment.pdf)
+* For a detailed `user guide` of the application please refer to: [README.pdf](./README.pdf)
+---
 # 1. SYSTEM DESIGN (class hierarchies)
 <img width="1638" height="853" alt="B_MEROS_CLASS_DIAG drawio" src="https://github.com/user-attachments/assets/c032eee8-923e-45c4-b5d1-1826e1b24af6" />
-
-
 -----------------------------------------------------------------------------------------------
 # 2. FUNCTIONALITY 
 # 2.1 Core Features 
