@@ -32,7 +32,9 @@
 ---
 # 1. SYSTEM DESIGN (class hierarchies)
 <img width="1638" height="853" alt="B_MEROS_CLASS_DIAG drawio" src="https://github.com/user-attachments/assets/c032eee8-923e-45c4-b5d1-1826e1b24af6" />
+
 -----------------------------------------------------------------------------------------------
+
 # 2. FUNCTIONALITY 
 # 2.1 Core Features 
 
